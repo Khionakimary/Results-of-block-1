@@ -6,4 +6,8 @@
 
 3. В папке Results of block 1 создала: файл readme.md, файл finaltask.cs, файл gitignore, файл .drawio
 
+4. Написала программу к задаче и отправила ее через git push в репозиторий на GitHab
+
+5. 
+
 
